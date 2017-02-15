@@ -1,0 +1,6 @@
+C:\Tutorial\Source\Model\MERModelEntArch\obj\Release\MERModelEntArch.csprojResolveAssemblyReference.cache
+C:\Tutorial\Source\Model\MERModelEntArch\bin\Release\MERModelEntArch.dll
+C:\Tutorial\Source\Model\MERModelEntArch\bin\Release\MERModelEntArch.pdb
+C:\Tutorial\Source\Model\MERModelEntArch\bin\Release\ITGBaseData.dll
+C:\Tutorial\Source\Model\MERModelEntArch\obj\Release\MERModelEntArch.dll
+C:\Tutorial\Source\Model\MERModelEntArch\obj\Release\MERModelEntArch.pdb
